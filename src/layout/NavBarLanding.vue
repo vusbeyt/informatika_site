@@ -33,7 +33,7 @@
               <a class="dropdown-item"><span>3.2. Решение практических задач с использование формул и функций в MS EXEl</span> </a>
               </router-link>
               <router-link to="/Themes4">
-              <a class="dropdown-item"><span>4. Информационные технологии в профессиональной деятельности (программа CoralDRAW) </span> </a>
+              <a class="dropdown-item"><span>4. Информационные технологии в профессиональной деятельности (программа CorelDRAW) </span> </a>
               </router-link>
         </drop-down>
       </div>

@@ -4,7 +4,7 @@
         style="position: fixed; left: 0; top: 0; width: 100%; height: 100%; background-image: url('img/1.jpg'); max-height: 999px;"
       ></div>
 <div class="container">
-<h3 class="title">Тема 4. Информационные технологии в профессиональной деятельности (программа CoralDRAW) </h3>
+<h3 class="title">Тема 4. Информационные технологии в профессиональной деятельности (программа CorelDRAW) </h3>
   <div class="section section-tabs">
     <div class="container">
       <div class="row">
