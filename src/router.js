@@ -19,6 +19,12 @@ import Themes31 from "./pages/Themes/Themes31.vue";
 import Themes32 from "./pages/Themes/Themes32.vue";
 import Themes4 from "./pages/Themes/Themes4.vue";
 
+import evmTheme1 from "./pages/Themes/evm/evmTheme1.vue";
+import evmTheme2 from "./pages/Themes/evm/evmTheme2.vue";
+import evmTheme3 from "./pages/Themes/evm/evmTheme3.vue";
+import evmTheme4 from "./pages/Themes/evm/evmTheme4.vue";
+import evmTheme5 from "./pages/Themes/evm/evmTheme5.vue";
+
 import MainFooter from "./layout/MainFooter.vue";
 
 Vue.use(Router);
@@ -105,6 +111,71 @@ export default new Router({
       name: "Themes4",
       components: {
         default: Themes4,
+        header: NavBarLanding,
+        footer: MainFooter,
+      },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" },
+      },
+    },
+    {
+      path: "/evmTheme1",
+      name: "evmTheme1",
+      components: {
+        default: evmTheme1,
+        header: NavBarLanding,
+        footer: MainFooter,
+      },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" },
+      },
+    },
+    {
+      path: "/evmTheme2",
+      name: "evmTheme2",
+      components: {
+        default: evmTheme2,
+        header: NavBarLanding,
+        footer: MainFooter,
+      },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" },
+      },
+    },
+    {
+      path: "/evmTheme3",
+      name: "evmTheme3",
+      components: {
+        default: evmTheme3,
+        header: NavBarLanding,
+        footer: MainFooter,
+      },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" },
+      },
+    },
+    {
+      path: "/evmTheme4",
+      name: "evmTheme4",
+      components: {
+        default: evmTheme4,
+        header: NavBarLanding,
+        footer: MainFooter,
+      },
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: "black" },
+      },
+    },
+    {
+      path: "/evmTheme5",
+      name: "evmTheme5",
+      components: {
+        default: evmTheme5,
         header: NavBarLanding,
         footer: MainFooter,
       },

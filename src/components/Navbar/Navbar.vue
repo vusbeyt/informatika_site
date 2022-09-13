@@ -182,4 +182,9 @@ export default {
 };
 </script>
 <style>
+.navbar-translate{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center
+}
 </style>

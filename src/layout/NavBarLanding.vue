@@ -1,5 +1,5 @@
 <template>
-  <navbar
+  <!-- <navbar
     class="new-nav-bar"
     position="fixed"
     type="primary"
@@ -39,8 +39,38 @@
       </div>
         </template>
       </div>
+       <div class="golova3">
+        <template>
+      <div class="new-navbar">
+        <drop-down class="nav-item" title="Темы">
+           <router-link to="/evmTheme1">
+                  <a class="dropdown-item"><span>1. Оргтехника</span></a>
+                </router-link>
+                <router-link to="/evmTheme2">
+                  <a class="dropdown-item"
+                    ><span>2. Основы вычислительной техники</span>
+                  </a>
+                </router-link>
+                <router-link to="/evmTheme3">
+                  <a class="dropdown-item"
+                    ><span>3. Компьютерные сети</span>
+                  </a>
+                </router-link>
+                <router-link to="/evmTheme4">
+                  <a class="dropdown-item"
+                    ><span>4. Операцонные системы</span></a
+                  >
+                </router-link>
+                <router-link to="/evmTheme5">
+                  <a class="dropdown-item"><span>5. Электронный офнис</span></a>
+                </router-link>
+        </drop-down>
+      </div>
+        </template>
+      </div>
     </template>
-  </navbar>
+  </navbar> -->
+  <div></div>
 </template> 
 
 <script>
@@ -76,10 +106,11 @@ export default {
 }
 .golova2 {
   font-size: 20px;
-  margin-top: -43px;
-  padding-left: 205px;
 }
 .golova {
+  font-size: 20px;
+}
+.golova3 {
   font-size: 20px;
 }
 </style>
