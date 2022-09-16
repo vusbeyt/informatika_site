@@ -30,12 +30,54 @@
                               <summary>
                                 <p class="blockquote blockquote-primary">
                                   <strong
-                                    >А. В. Батаев, ОПЕРАЦИОННЫЕ СИСТЕМЫ И СРЕДЫ
+                                    >В.Н. Олифер КОМПЬЮТЕРНЫЕ СЕТИ
                                   </strong>
                                 </p>
                               </summary>
                               <iframe
-                                src="https://docs.google.com/document/d/1tS3sjL5FWRrdPgtD6PoIvBfYq11enf3lYKDWLn0gKqI/preview"
+                                src="https://docs.google.com/document/d/1CwmcZlvQPPranMAuDj7gBzGuuJju733qsJ6d2Hr0CmE/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+							<details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    >А. М. Кенин ПРАКТИЧЕСКОЕ РУКОВОДСТВО СИСТЕМНОГО АДМИНИСТРАТОРА
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://docs.google.com/document/d/1HmKgChrw_38SLlL0zeglLPQagUX6TCkkSrbL2C_sL0M/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+														<details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    > УЭНДЕЛЛ ОДОМ Официальное руководство  по подготовке к сертификационным экзаменам  
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://docs.google.com/document/d/1ptA40MU1Gw3ZOIECTj2GW6ZUdcRnUck5oqYHt6iUSNQ/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+																					<details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    > Н. М. Ковган КОМПЬЮТЕРНЫЕ СЕТИ  
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://docs.google.com/document/d/1kXO2jORUbB8bA3TPOb_eaXblqajCAh0UUU2aYzelZSM/preview"
                                 width="100%"
                                 height="1000"
                               ></iframe>

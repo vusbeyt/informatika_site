@@ -4,7 +4,7 @@
       style="position: fixed; left: 0; top: 0; width: 100%; height: 100%; background-image: url('img/1.jpg'); max-height: 999px;"
     ></div>
     <div class="container">
-      <h3 class="title">Тема 5. Электронный офниc</h3>
+      <h3 class="title">Тема 5. Электронный офиc</h3>
       <div class="section section-tabs">
         <div class="container">
           <div class="row">
@@ -30,12 +30,68 @@
                               <summary>
                                 <p class="blockquote blockquote-primary">
                                   <strong
-                                    >А. В. Батаев, ОПЕРАЦИОННЫЕ СИСТЕМЫ И СРЕДЫ
+                                    >В. П. Семенов EXCEL 2013 НА ПРИМЕРАХ
                                   </strong>
                                 </p>
                               </summary>
                               <iframe
-                                src="https://docs.google.com/document/d/1tS3sjL5FWRrdPgtD6PoIvBfYq11enf3lYKDWLn0gKqI/preview"
+                                src="https://drive.google.com/file/d/1pZISXJtDX2D3aamCGZfKyVH0TnxxSMVk/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+							                            <details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    >Ю. Бекаревич MS OFFICE ACCESS 2016 САМОУЧИТЕЛЬ  
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://drive.google.com/file/d/1S-jjW3HayiHbVLbel1VShkJSU3-qfikc/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+							                            <details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    >В. П. Леонтьев OFFICE 2016 НОВЕЙШИЙ САМОУЧИТЕЛЬ
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://drive.google.com/file/d/1QtGEVDr0YHNOnw_P2tGNNqs80yhowoJ3/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+							                            <details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    >В.П. Шульгин СОЗДАНИЕ ЭФФЕКТНЫХ ПРЕЗЕНТАЦИЙ 
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://drive.google.com/file/d/1e20HCu4IyBRQewLUagAE2PpfgZQbauml/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+														                            <details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    > Т.А. Тибенко MS VISIO 
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://drive.google.com/file/d/1raI6szr1ghQTfeWVwH-srGW78iLnsNkz/preview"
                                 width="100%"
                                 height="1000"
                               ></iframe>

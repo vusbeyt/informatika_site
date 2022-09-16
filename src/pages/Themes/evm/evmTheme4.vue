@@ -30,12 +30,26 @@
                               <summary>
                                 <p class="blockquote blockquote-primary">
                                   <strong
-                                    >А. В. Батаев, ОПЕРАЦИОННЫЕ СИСТЕМЫ И СРЕДЫ
+                                    >А. В. Батаев ОПЕРАЦИОННЫЕ СИСТЕМЫ И СРЕДЫ
                                   </strong>
                                 </p>
                               </summary>
                               <iframe
                                 src="https://docs.google.com/document/d/1tS3sjL5FWRrdPgtD6PoIvBfYq11enf3lYKDWLn0gKqI/preview"
+                                width="100%"
+                                height="1000"
+                              ></iframe>
+                            </details>
+							 <details>
+                              <summary>
+                                <p class="blockquote blockquote-primary">
+                                  <strong
+                                    >Т. П. Куль  ОПЕРАЦИОННЫЕ СИСТЕМЫ 
+                                  </strong>
+                                </p>
+                              </summary>
+                              <iframe
+                                src="https://docs.google.com/document/d/15lnL746RY3oJyagCMhdEMUSp58vHrcqoF-P2HVwTTos/preview"
                                 width="100%"
                                 height="1000"
                               ></iframe>
