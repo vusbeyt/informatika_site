@@ -1,5 +1,5 @@
 <template>
-  <!-- <navbar
+  <navbar
     class="new-nav-bar"
     position="fixed"
     type="primary"
@@ -15,7 +15,7 @@
       </div>
       <div class="golova2">
         <template>
-      <div class="new-navbar">
+      <!-- <div class="new-navbar">
         <drop-down class="nav-item" title="Темы">
            <router-link to="/Themes1">
               <a class="dropdown-item"><span>1. Информационные ресурсы в профессиональной деятельности </span></a>
@@ -36,12 +36,12 @@
               <a class="dropdown-item"><span>4. Информационные технологии в профессиональной деятельности (программа CorelDRAW) </span> </a>
               </router-link>
         </drop-down>
-      </div>
-        </template>
+      </div> -->
+        <!-- </template>
       </div>
        <div class="golova3">
-        <template>
-      <div class="new-navbar">
+        <template> -->
+      <!-- <div class="new-navbar">
         <drop-down class="nav-item" title="Темы">
            <router-link to="/evmTheme1">
                   <a class="dropdown-item"><span>1. Оргтехника</span></a>
@@ -65,16 +65,15 @@
                   <a class="dropdown-item"><span>5. Электронный офнис</span></a>
                 </router-link>
         </drop-down>
-      </div>
+      </div> -->
         </template>
       </div>
     </template>
-  </navbar> -->
-  <div></div>
+  </navbar>
 </template> 
 
 <script>
-import { DropDown, Navbar } from "@/components";
+import {  Navbar } from "@/components";
 import { Popover } from "element-ui";
 export default {
   name: "main-navbar",
@@ -82,8 +81,7 @@ export default {
     transparent: Boolean,
     colorOnScroll: Number,
   },
-  components: {
-    DropDown,
+  components: { 
     Navbar,
     [Popover.name]: Popover,
   },
